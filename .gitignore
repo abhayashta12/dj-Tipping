@@ -43,3 +43,6 @@ Procfile
 
 # Ignore .env for production secrets
 .env.production
+
+# Ignore .history folder
+.history/
